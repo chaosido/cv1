@@ -1,4 +1,4 @@
-name: cv1
+name: cv1_conda
 channels:
   - conda-forge
   - defaults
@@ -21,3 +21,4 @@ dependencies:
     - pytz==2024.1
     - tzdata==2024.1
     - tqdm==4.66.5
+
