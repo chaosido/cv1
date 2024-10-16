@@ -1,0 +1,30 @@
+# Ignore data folder and all its contents
+data/
+
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Python-related
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore model checkpoints
+*.pth
+*.h5
+
+# Ignore any compressed files
+*.zip
+*.tar.gz
+*.rar
